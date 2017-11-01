@@ -1,0 +1,45 @@
+/* add your CSS here */
+
+body {
+  align-content: center;
+  border: solid #A9A9A9;
+  border-width: thin;
+  position: fixed;
+  width: 340px;
+  box-shadow: 8px 8px 8px #D3D3D3;
+}
+
+div {
+  padding-top: 1px;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  background-color: #ffe0cc;
+}
+
+.image {
+  height: 200px;
+  width: 300px;
+}
+
+.facts {
+  font-style: italic;
+  font-size: 13px;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.description {
+  border-style: solid;
+  border-color: #808080;
+  border-width: thin;
+  font-size: 13px;
+}
